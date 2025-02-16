@@ -132,5 +132,3 @@ Project Link: [https://github.com/amhousa/clever-monkey](https://github.com/amho
 ---
 
 Designed and implemented by Amirhossein Salmani with ❤️ and ☕ + AI
-
-```
