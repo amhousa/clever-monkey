@@ -35,7 +35,7 @@ CleverMonkey is an engaging and challenging memory game designed to test and imp
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/clevermonkey.git
+   git clone https://github.com/amhousa/clever-monkey.git
    cd clevermonkey
    ```
 
@@ -127,12 +127,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Amirhossein Salmani - [info@amirsalmani.com](mailto:info@amirsalmani.com)
 
-Project Link: [https://github.com/yourusername/clevermonkey](https://github.com/yourusername/clevermonkey)
+Project Link: [https://github.com/amhousa/clever-monkey](https://github.com/amhousa/clever-monkey)
 
 ---
 
 Designed and implemented by Amirhossein Salmani with ❤️ and ☕ + AI
 
 ```
-
-This README provides a comprehensive overview of the CleverMonkey Memory Game project, including installation instructions, deployment guidelines, game instructions, and contribution information. You may want to replace "yourusername" with the actual GitHub username or organization name where the project is hosted.
